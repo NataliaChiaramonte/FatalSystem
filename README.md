@@ -3,7 +3,7 @@
 Esse trabalho é referente ao Projeto Integrado Multidisciplinar da Faculdade UNIP de São José dos Campos, criado em equipe.
 
 <p align="center">
-      <img src="Logotipo/FatalSystem.jpg" alt="logo da Fatal System" width="400">
+      <img src="Logotipo/FatalSystemSemMargem.jpg" alt="logo da Fatal System" width="400">
       <h2 align="center"> Fatal System</h2>
 
 ## Desafio <a id="desafio"></a>
