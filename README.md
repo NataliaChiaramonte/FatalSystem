@@ -1,10 +1,15 @@
 # Gerenciamento de chamados
 
 Esse trabalho é referente ao Projeto Integrado Multidisciplinar da Faculdade UNIP de São José dos Campos, criado em equipe.
+<br>
+    
+<br>
 
+<h2 align="center"> Fatal System</h2>
+<br>
 <p align="center">
       <img src="Logotipo/FatalSystemSemMargem.jpg" alt="logo da Fatal System" width="400">
-      <h2 align="center"> Fatal System</h2>
+<br>
 
 ## Desafio <a id="desafio"></a>
 O desafio proposto é desenvolver um sistema de gestão de chamados, apoiado por Inteligência Artificial (IA), capaz de otimizar o atendimento interno.
@@ -25,6 +30,7 @@ O propósito central é tornar o fluxo de atendimento mais ágil, diminuir a car
 <br>
 
 ## Backlog do Sistema
+### 1. Gerenciamento de chamados
 <pre>1.a) Criar chamado:
 O sistema deve permitir que o usuário crie um novo chamado, informando título, descrição, categoria e prioridade.
 O usuário deve poder revisar os dados preenchidos antes de confirmar o envio do chamado.
@@ -81,6 +87,8 @@ IA concede solução para setor responsável de TI de acordo com o sugerido pela
 
 </pre>
 </pre>
+
+<br>
 
 ## Requisitos Funcionais
 
@@ -140,12 +148,19 @@ IA concede solução para setor responsável de TI de acordo com o sugerido pela
 ## Tecnologias Utilizadas
 * [Figma](https://www.figma.com/)
 * [Astah](https://astah.net/)
-* [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 * [Br Modelo](https://www.brmodeloweb.com/lang/pt-br/index.html)
+* [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
+<br>
 
+## DoR - Definition of Ready
+* Design no <strong>Figma</strong>
+* Diagramas e modelagem do sistema no <strong>Astah</strong>
+* Diagrama de estruturação do Banco de Dados no <strong>Br Modelo</strong>
+* Modelagem do Banco de Dados no <strong>SQL Server</strong>
+<br>
 
 ## Integrantes do grupo
 
-| Nome                          | Papel         | GitHub                                    | LinkedIn                                                      |
-| ----------------------------- | ------------- |------------------------------------------ | ------------------------------------------------------------- |
+| Nome                          | Papel         | GitHub                                    |
+| ----------------------------- | ------------- |------------------------------------------ |
 | Natália Chiaramonte Fernandes     | Desenvolvedora |[GitHub](https://github.com/NataliaChiaramonte) |
