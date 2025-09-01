@@ -33,6 +33,8 @@ O propósito central é tornar o fluxo de atendimento mais ágil, diminuir a car
 👉[Backlog](https://github.com/NataliaChiaramonte/FatalSystem/blob/main/BacklogDoSistema.md)
 <br>
 
+##Sprint
+
 ## 📅 Tabela de Sprints
 |    Período    | Link para Documentação |
 | ------------- | ---------------------- |
@@ -43,7 +45,7 @@ O propósito central é tornar o fluxo de atendimento mais ágil, diminuir a car
 <br>
 
 ## Tecnologias Utilizadas e DoR - Definition of Ready
-[Informação Completa](https://github.com/NataliaChiaramonte/FatalSystem/blob/main/TecDoR.md)
+👉[Informação Completa](https://github.com/NataliaChiaramonte/FatalSystem/blob/main/TecDoR.md)
 <br>
 
 ## Integrantes do grupo
