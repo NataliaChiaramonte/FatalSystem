@@ -3,7 +3,7 @@
 
 ### Planejamento e Alinhamento Inicial
 
-|    Realizado    |                           |
+|    Ação    |                           |
 | :-------------: | ---------------------- |
 |   1 | Definição dos objetivos de negócio.             |
 |   2 | Refinamento do Product Backlog.                 |
