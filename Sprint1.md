@@ -1,7 +1,7 @@
 # 📅  Sprint 1 
 <br>
 
-## Planejamento e Alinhamento Inicial:
+## Planejamento e Alinhamento Inicial
 
 |    Rank    |                           |
 | :-------------: | ---------------------- |
