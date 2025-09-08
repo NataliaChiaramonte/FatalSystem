@@ -1,9 +1,9 @@
 # 📅  Sprint 1 
 <br>
 
-## Planejamento e Alinhamento Inicial
+### Planejamento e Alinhamento Inicial
 
-|    Rank    |                           |
+|    Realizado    |                           |
 | :-------------: | ---------------------- |
 |   1 | Definição dos objetivos de negócio.             |
 |   2 | Refinamento do Product Backlog.                 |
