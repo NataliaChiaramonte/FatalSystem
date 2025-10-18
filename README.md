@@ -32,7 +32,8 @@ O propósito central é tornar o fluxo de atendimento mais ágil, diminuir a car
 ## Backlog do Sistema
 👉[Backlog](https://github.com/NataliaChiaramonte/FatalSystem/blob/main/BacklogDoSistema.md)
 <br>
-
+<br>
+<br>
 
 ## 📅 Tabela de Sprints
 |    Período    | Link para Documentação |
