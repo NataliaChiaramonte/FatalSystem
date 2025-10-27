@@ -48,7 +48,7 @@ Breve resumo dos objetivos e da necessidade do projeto. <br>
 <br>
 
 ## 🧩 Como Executar, Usar e Testar
-👉[Manual](https://github.com/NataliaChiaramonte/FatalSystem/blob/main/Documenta%C3%A7%C3%A3o/ManualdoUsuario.md)
+👉[Executar](https://github.com/NataliaChiaramonte/FatalSystem/blob/main/Documenta%C3%A7%C3%A3o/ManualdoUsuario.md)
 
 <br>
 
@@ -67,7 +67,7 @@ Pasta para organização dos documentos necessários para o desenvolvimento do p
 <br>
 
 
-## 🧩 DoR - Definition of Ready e DOD - Definition of Done
+## 🧩 DoR - Definition of Ready e DoD - Definition of Done
 DoR - conjunto de critérios que determina se uma tarefa está pronta para ser trabalhada pela equipe.<br>
 DoD - lista de critérios que define quando essa mesma tarefa é considerada finalizada.<br>
 👉[Informação Completa](https://github.com/NataliaChiaramonte/FatalSystem/blob/main/Documenta%C3%A7%C3%A3o/DoReDod.md)
