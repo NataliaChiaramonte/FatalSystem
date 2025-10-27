@@ -21,7 +21,7 @@ O propósito central é tornar o fluxo de atendimento mais ágil, diminuir a car
 
 <br>
 
-## 📘Backlog do Sistema
+## 📘 Backlog do Sistema
 Lista de tarefas organizada e priorizadas.<br>
 👉[Backlog](https://github.com/NataliaChiaramonte/FatalSystem/blob/main/Documenta%C3%A7%C3%A3o/BacklogDoSistema.md)
 <br>
