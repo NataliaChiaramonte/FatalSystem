@@ -1,4 +1,4 @@
-# Gerenciamento de chamados
+# Gerenciamento de Chamados
 
 Esse trabalho é referente ao Projeto Integrado Multidisciplinar da Faculdade UNIP de São José dos Campos, criado em equipe.
 <br>
@@ -11,7 +11,7 @@ Esse trabalho é referente ao Projeto Integrado Multidisciplinar da Faculdade UN
       <img src="Logotipo/FatalSystemSemMargem.jpg" alt="logo da Fatal System" width="400">
 <br>
 
-## Desafio <a id="desafio"></a>
+## 🧱 Desafio <a id="desafio"></a>
 O desafio proposto é desenvolver um sistema de gestão de chamados, apoiado por Inteligência Artificial (IA), capaz de otimizar o atendimento interno.
 Nesse sistema, os chamados registrados pelos usuários serão analisados automaticamente pela IA, que sugerirá soluções inteligentes à equipe de TI. Caberá à equipe validar essas recomendações, podendo aprová-las, ajustá-las ou descartá-las.
 
@@ -21,42 +21,66 @@ O propósito central é tornar o fluxo de atendimento mais ágil, diminuir a car
 
 <br>
 
-## Solução Proposta
-* Classificação e priorização automática de chamados por Inteligência Artificial.
-* Sugestão de soluções pela IA para apoio à equipe de TI.
-* Emissão de relatórios periódicos (semanais, mensais e anuais) sobre os chamados.
-* Gerenciamento de usuários pelo administrador.
-
-<br>
-
 ## Backlog do Sistema
-👉[Backlog](https://github.com/NataliaChiaramonte/FatalSystem/blob/main/BacklogDoSistema.md)
+Lista de tarefas organizada e priorizadas.<br>
+👉[Backlog](https://github.com/NataliaChiaramonte/FatalSystem/blob/main/Documenta%C3%A7%C3%A3o/BacklogDoSistema.md)
 <br>
 <br>
 <br>
 
-## 📅 Tabela de Sprints
-|    Período    | Link para Documentação |
-| :-----------: | :--------------------: |
-| 25/08 - 31/08 | [Sprint 1](https://github.com/NataliaChiaramonte/FatalSystem/issues/1)  |
-| 01/09 - 07/09 | [Sprint 2](https://github.com/NataliaChiaramonte/FatalSystem/issues/2)  |
-| 08/09 - 14/09 | [Sprint 3](https://github.com/NataliaChiaramonte/FatalSystem/issues/3)  |
-| 15/09 - 21/09 | [Sprint 4](https://github.com/NataliaChiaramonte/FatalSystem/issues/4)  |
-| 22/09 - 28/09 | [Sprint 5](https://github.com/NataliaChiaramonte/FatalSystem/issues/5)  |
-| 29/09 - 05/10 | [Sprint 6](https://github.com/NataliaChiaramonte/FatalSystem/issues/6)  |
-| 06/10 - 12/10 | [Sprint 7](https://github.com/NataliaChiaramonte/FatalSystem/issues/7)  |
-| 13/10 - 19/10 | [Sprint 8](https://github.com/NataliaChiaramonte/FatalSystem/issues/8)  |
-| 20/10 - 26/10 | [Sprint 9](https://github.com/NataliaChiaramonte/FatalSystem/issues/9)  |
-| 27/10 - 02/11 | [Sprint 10](https://github.com/NataliaChiaramonte/FatalSystem/issues/10)  |
+
+## 📅 Cronograma de Evolução do Projeto
+Representação visual e cronológica do planejamento, execução e progresso do projeto. <br>
+👉[Cronograma](https://github.com/NataliaChiaramonte/FatalSystem/blob/main/Documenta%C3%A7%C3%A3o/Cronograma%20de%20Evolu%C3%A7%C3%A3o%20do%20Projeto.md)
 
 <br>
 
-## Tecnologias Utilizadas e DoR - Definition of Ready
-👉[Informação Completa](https://github.com/NataliaChiaramonte/FatalSystem/blob/main/TecDoR.md)
+## 🧑‍💻 Tecnologias Utilizadas
+Sistemas e ferramentas utilizadas durante o desenvolvimento do projeto. <br>
+👉[Tecnologias](https://github.com/NataliaChiaramonte/FatalSystem/blob/main/Documenta%C3%A7%C3%A3o/TecnologiasUtilizadas.md)
+
 <br>
 
-## Integrantes do grupo
+## 🎯 Estrutura do Projeto
+Breve resumo dos objetivos e da necessidade do projeto. <br>
+👉[Solução](https://github.com/NataliaChiaramonte/FatalSystem/blob/main/Documenta%C3%A7%C3%A3o/EstruturaProjeto.md).
 
-| Nome                          | Papel         | GitHub                                    |
-| ----------------------------- | ------------- |------------------------------------------ |
-| Natália Chiaramonte Fernandes     | Desenvolvedora |[GitHub](https://github.com/NataliaChiaramonte) |
+<br>
+
+## 🧩 Como Executar, Usar e Testar
+👉[Manual](https://github.com/NataliaChiaramonte/FatalSystem/blob/main/Documenta%C3%A7%C3%A3o/ManualdoUsuario.md)
+
+<br>
+
+
+## 🗃️ Pasta de Documentação
+Pasta para organização dos documentos necessários para o desenvolvimento do projeto.<br>
+[Documentação](https://github.com/NataliaChiaramonte/FatalSystem/tree/main/Documenta%C3%A7%C3%A3o)
+
+<br>
+
+## 👥 Integrantes do Grupo
+| Link para Informações de Integrantes |
+| -----------------------------        |
+| [Integrantes](https://github.com/NataliaChiaramonte/FatalSystem/blob/main/Documenta%C3%A7%C3%A3o/IntegrantesGrupo.md)       |
+
+<br>
+
+
+## 🧩 DoR - Definition of Ready e DOD - Definition of Done
+DoR - conjunto de critérios que determina se uma tarefa está pronta para ser trabalhada pela equipe.<br>
+DoD - lista de critérios que define quando essa mesma tarefa é considerada finalizada.<br>
+👉[Informação Completa](https://github.com/NataliaChiaramonte/FatalSystem/blob/main/Documenta%C3%A7%C3%A3o/DoReDod.md)
+
+<br>
+
+## 📋 Manual de Usuário
+Documento fornecido ao usuário para utilizar o sistema.<br>
+👉[Manual](https://github.com/NataliaChiaramonte/FatalSystem/blob/main/Documenta%C3%A7%C3%A3o/ManualdoUsuario.md)
+<br>
+
+
+  
+
+
+
